@@ -2,9 +2,9 @@
 
 # Shu-Ting Yang
 
-### Endocrinologist · Medical AI Researcher
+### Endocrinologist · Pituitary & Neuroendocrine Medicine · Medical AI
 
-*内分泌科医师 · 医学人工智能研究者*
+*垂体与神经内分泌医师 · 医学人工智能研究者*
 
 I develop clinically grounded, reproducible research at the intersection of endocrinology, machine learning, and bioinformatics.
 
